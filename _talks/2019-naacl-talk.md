@@ -1,11 +1,12 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
+permalink: /talks/2019-naacl-talk
+venue: "Minneapolis, USA"
+date: 2019-06
 location: "San Francisco, California"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+
+An oral presentation at NAACL on "Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus". Text style transfer rephrases a text from a source style (e.g., informal) to a target style (e.g., formal) while keeping its original meaning. Despite the success existing works have achieved using a parallel corpus for the two styles, transferring text style has proven significantly more challenging when there is no parallel training corpus. In this paper, we address this challenge by using a reinforcement-learning-based generator-evaluator architecture. Our generator employs an attention-based encoder-decoder to transfer a sentence from the source style to the target style. Our evaluator is an adversarially trained style discriminator with semantic and syntactic constraints that score the generated sentence for style, meaning preservation, and fluency. Experimental results on two different style transfer tasks (sentiment transfer and formality transfer) show that our model outperforms state-of-the-art approaches. Furthermore, we perform a manual evaluation that demonstrates the effectiveness of the proposed method using subjective metrics of generated text quality.
