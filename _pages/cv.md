@@ -17,7 +17,7 @@ Education
 
 Work Experience
 ======
-* Research intern at Facebook AI Applied Research, Menlo Park, Summer 2019
+* Research intern at Facebook AI, Menlo Park, Summer 2019
 * Research intern at Tencent AI Lab, Bellevue, Spring 2019
 * Research intern at IBM Thomas J. Watson Research Center, New York, Summer 2017
   
