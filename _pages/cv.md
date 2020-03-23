@@ -23,5 +23,6 @@ Work Experience
   
 Academic Services
 ======
-* Reviewer, 2020 AAAI Conference on Artificial Intelligence
+* Reviewer, ECML-PKDD 2020
+* Reviewer, AAAI Conference on Artificial Intelligence 2020
 * Reviewer, Annual Meeting of the Association for Computational Linguistics (ACL 2019, 2020) 
