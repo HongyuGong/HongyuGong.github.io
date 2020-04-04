@@ -47,11 +47,11 @@ In <i>Proceedings of the 2018 Conference on Empirical Methods in Natural Languag
 
 * [Document Similarity for Texts of Varying Lengths via Hidden Topics](https://arxiv.org/pdf/1903.10675.pdf) <br>
 <b>Hongyu Gong</b>, Tarek Sakakini, Suma Bhat and Jinjun Xiong. <br>
-In <i>the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
+In <i>Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2018).
 
 * [Embedding Syntax and Semantics of Prepositions via Tensor Decomposition](https://www.aclweb.org/anthology/N18-1082.pdf) <br>
 <b>Hongyu Gong</b>, Suma Bhat and Pramod Viswanath. <br>
-In <i>the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>, (NAACL 2018).
+In <i>Proceedings of the 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics</i>, (NAACL 2018).
 
 ## 2017
 * [Geometry of Compositionality](https://arxiv.org/pdf/1611.09799.pdf) <br>
