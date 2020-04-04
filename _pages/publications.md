@@ -17,6 +17,12 @@ author_profile: true
 
 (\* denotes equal contribution)
 
+## 2020
+* Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension (To appear soon) <br>
+<b>Hongyu Gong</b>, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu. <br>
+Accepted by <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+
+
 ## 2019
 * [PaRe: A Paper-Reviewer Matching Approach Using a Common Topic Space](https://www.aclweb.org/anthology/D19-1049.pdf) <br>
 Omer Anjum\*, <b>Hongyu Gong\*</b>, Suma Bhat, Jinjun Xiong and Wen-mei Hwu. <br>
