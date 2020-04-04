@@ -13,3 +13,4 @@ I am currently a Ph.D. student at University of Illinois at Urbana-Champaign (UI
 
 Recent News
 ======
+* Our long paper "Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension" gets accepted by ACL 2020.
