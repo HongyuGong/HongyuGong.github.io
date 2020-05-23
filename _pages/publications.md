@@ -18,9 +18,13 @@ author_profile: true
 (\* denotes equal contribution)
 
 ## 2020
-* Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension (To appear soon) <br>
+* [Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension](https://arxiv.org/abs/2005.08056) <br>
 <b>Hongyu Gong</b>, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu. <br>
 Accepted by <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+
+* IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information (To appear soon) <br>
+<b>Hongyu Gong</b>, Kshitij Gupta, Akriti Jain and Suma Bhat. <br>
+Accepted by <i> ACL 2020 Workshop on Figurative Language Processing </i>.
 
 
 ## 2019
