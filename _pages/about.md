@@ -16,6 +16,6 @@ Recent News
 
 * Our paper "IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information" got accepted by ACL 2020 Workshop on Figurative Language Processing.
 
-* I succsessfully defended Ph.D. in April, 2020. 
+* I succsessfully defended my Ph.D. in April, 2020. 
 
 * Our long paper "Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension" got accepted by ACL 2020.
