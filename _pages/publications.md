@@ -26,6 +26,10 @@ Accepted by <i>Proceedings of the 58th Annual Meeting of the Association for Com
 <b>Hongyu Gong</b>, Kshitij Gupta, Akriti Jain and Suma Bhat. <br>
 Accepted by <i> ACL 2020 Workshop on Figurative Language Processing </i>.
 
+* FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams (To appear soon) <br>
+Wanzheng Zhu, <b>Hongyu Gong</b>, Jiaming Shen, Chao Zhang, Jingbo Shang, Suma Bhat Jiawei Han <br>
+Accepted by <i>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020)<i>.
+
 
 ## 2019
 * [PaRe: A Paper-Reviewer Matching Approach Using a Common Topic Space](https://www.aclweb.org/anthology/D19-1049.pdf) <br>
