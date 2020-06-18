@@ -24,7 +24,7 @@ Accepted by <i>Proceedings of the 58th Annual Meeting of the Association for Com
 
 * IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information (To appear soon) <br>
 <b>Hongyu Gong</b>, Kshitij Gupta, Akriti Jain and Suma Bhat. <br>
-Accepted by <i> ACL 2020 Workshop on Figurative Language Processing </i>.
+Accepted by <i> ACL 2020 Workshop on Figurative Language Processing</i>.
 
 * FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams (To appear soon) <br>
 Wanzheng Zhu, <b>Hongyu Gong</b>, Jiaming Shen, Chao Zhang, Jingbo Shang, Suma Bhat Jiawei Han <br>
