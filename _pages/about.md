@@ -14,8 +14,10 @@ I earned my Ph.D. degree from the University of Illinois at Urbana-Champaign (UI
 Recent News
 ======
 
-* Our paper "IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information" got accepted by ACL 2020 Workshop on Figurative Language Processing.
+* 2020.06 Our paper "FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams" got accepted by ECML-PKDD 2020.
 
-* I succsessfully defended my Ph.D. in April, 2020. 
+* 2020.05 Our paper "IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information" got accepted by ACL 2020 Workshop on Figurative Language Processing.
 
-* Our long paper "Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension" got accepted by ACL 2020.
+* 2020.04 I succsessfully defended my Ph.D. at the University of Illinois at Urbana-Champaign.
+
+* 2020.04 Our long paper "Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension" got accepted by ACL 2020.
