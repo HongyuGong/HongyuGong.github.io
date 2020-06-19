@@ -25,7 +25,7 @@ Academic Services
 ======
 ## Program Committee Member
 * [The Second International Workshop on Deep Learning on Graphs: Methods and Applications (DLG-KDD 2020)](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/)
-* [The Conference on Empirical Methods in Natural Language Processing (EMNLP 2020](https://2020.emnlp.org)
+* [The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)](https://2020.emnlp.org)
 * [The 5th Workshop on Representation Learning for NLP (RepL4NLP-2020)](https://sites.google.com/view/repl4nlp2020/home?authuser=0)
 * [The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020)](https://ecmlpkdd2020.net/)
 * [AAAI Conference on Artificial Intelligence 2020 (AAAI-20)](https://aaai.org/Conferences/AAAI-20/)
