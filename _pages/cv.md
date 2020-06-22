@@ -32,6 +32,7 @@ Academic Services
 * Annual Meeting of the Association for Computational Linguistics ([ACL 2019](http://www.acl2019.org), [ACL2020](https://acl2020.org/))
 
 ## Reviewer
+* [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
 * [The 41st European Conference on Information Retrieval (ECIR 2019)](http://ecir2019.org/)
 * [The ACM Transactions on Sensor Networks (TOSN)](https://dl.acm.org/journal/tosn)
 * [IEEE 37th International Conference on Distributed Computing Systems (ICDCS 2017)](http://icdcs2017.gatech.edu/)
