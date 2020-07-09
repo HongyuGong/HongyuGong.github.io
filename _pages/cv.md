@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2017-Now
+* Ph.D in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2017-2020
 * M.S. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2015-2017
 * B.S in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2011-2015
 
