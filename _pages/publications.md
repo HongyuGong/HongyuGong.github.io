@@ -20,11 +20,15 @@ author_profile: true
 ## 2020
 * [Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.acl-main.603/) <br>
 <b>Hongyu Gong</b>, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu. <br>
-Accepted by <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+
+* [Enriching Word Embeddings with Temporal and Spatial Information](To appear soon) <br>
+<b>Hongyu Gong</b>, Suma Bhat and Pramod Viswanath. <br>
+Accepted by <i>The SIGNLL Conference on Computational Natural Language Learning (CoNLL 2020)</i> (ACL 2020).
 
 * [IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information](https://www.aclweb.org/anthology/2020.figlang-1.21/) <br>
 <b>Hongyu Gong</b>, Kshitij Gupta, Akriti Jain and Suma Bhat. <br>
-Accepted by <i> ACL 2020 Workshop on Figurative Language Processing</i>.
+In <i>Proceedings of the Second Workshop on Figurative Language Processing</i> (Fig-Lang@ACL 2020).
 
 * [FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams](https://arxiv.org/abs/1910.04345) <br>
 Wanzheng Zhu, <b>Hongyu Gong</b>, Jiaming Shen, Chao Zhang, Jingbo Shang, Suma Bhat Jiawei Han <br>
