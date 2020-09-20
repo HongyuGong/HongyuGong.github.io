@@ -24,12 +24,12 @@ Work Experience
 Academic Services
 ======
 ## Program Committee Member
-* The International Workshop on Deep Learning on Graphs: Methods and Applications ([DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/))
-* The Conference on Empirical Methods in Natural Language Processing ([EMNLP 2020](https://2020.emnlp.org))
-* The Workshop on Representation Learning for NLP ([RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0))
-* The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net/))
-* AAAI Conference on Artificial Intelligence 2020 ([AAAI-20](https://aaai.org/Conferences/AAAI-20/), [AAAI-21](https://aaai.org/Conferences/AAAI-21/))
 * Annual Meeting of the Association for Computational Linguistics ([ACL 2019](http://www.acl2019.org), [ACL2020](https://acl2020.org/))
+* The Conference on Empirical Methods in Natural Language Processing ([EMNLP 2020](https://2020.emnlp.org))
+* AAAI Conference on Artificial Intelligence ([AAAI-20](https://aaai.org/Conferences/AAAI-20/), [AAAI-21](https://aaai.org/Conferences/AAAI-21/))
+* The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net/))
+* The International Workshop on Deep Learning on Graphs: Methods and Applications ([DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/))
+* The Workshop on Representation Learning for NLP ([RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0))
 
 ## Reviewer
 * [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
