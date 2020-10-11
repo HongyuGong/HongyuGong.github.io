@@ -22,7 +22,7 @@ author_profile: true
 <b>Hongyu Gong</b>, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu. <br>
 In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
 
-* Enriching Word Embeddings with Temporal and Spatial Information (To appear soon) <br>
+* [Enriching Word Embeddings with Temporal and Spatial Information](Thttps://arxiv.org/abs/2010.00761) <br>
 <b>Hongyu Gong</b>, Suma Bhat and Pramod Viswanath. <br>
 Accepted by <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020).
 
