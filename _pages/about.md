@@ -14,6 +14,8 @@ I earned my Ph.D. degree from the University of Illinois at Urbana-Champaign (UI
 Recent News
 ======
 
+* 2020.10 Our paper "Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer" got accepted by INLG 2020.
+
 * 2020.09 Our paper "Enriching Word Embeddings with Temporal and Spatial Information" got accepted by CoNLL 2020.
 
 * 2020.06 Our paper "FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams" got accepted by ECML-PKDD 2020.
