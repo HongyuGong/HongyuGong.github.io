@@ -26,6 +26,11 @@ In <i>Proceedings of the 58th Annual Meeting of the Association for Computationa
 <b>Hongyu Gong</b>, Suma Bhat and Pramod Viswanath. <br>
 Accepted by <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020).
 
+* [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](to appear soon) <br>
+<b>Hongyu Gong</b>, Linfeng Song, and Suma Bhat. <br>
+Accepted by <i>International Conference on Natural Language Generation </i> (INLG 2020).
+
+
 * [IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information](https://www.aclweb.org/anthology/2020.figlang-1.21/) <br>
 <b>Hongyu Gong</b>, Kshitij Gupta, Akriti Jain and Suma Bhat. <br>
 In <i>Proceedings of the Second Workshop on Figurative Language Processing</i> (Fig-Lang@ACL 2020).
