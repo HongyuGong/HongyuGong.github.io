@@ -14,6 +14,8 @@ I earned my Ph.D. degree from the University of Illinois at Urbana-Champaign (UI
 Recent News
 ======
 
+* 2020.12 Our paper "Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention" got accepted by AAAI 2021 (AI for social impact track).
+
 * 2020.10 Our paper "Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer" got accepted by INLG 2020.
 
 * 2020.09 Our paper "Enriching Word Embeddings with Temporal and Spatial Information" got accepted by CoNLL 2020.
