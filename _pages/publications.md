@@ -18,17 +18,21 @@ author_profile: true
 (\* denotes equal contribution)
 
 ## 2020
+* [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention]() <br>
+<b>Hongyu Gong</b>, Alberto Valido Delgado, Katherine Ingram, Giulia Fanti, Suma Bhat and Dorothy Espelage. <br>
+Accepted by <i> AAAI 2021 (AI for Social Impact track)</i>.
+
 * [Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.acl-main.603/) <br>
 <b>Hongyu Gong</b>, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu. <br>
 In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
 
 * [Enriching Word Embeddings with Temporal and Spatial Information](https://arxiv.org/abs/2010.00761) <br>
 <b>Hongyu Gong</b>, Suma Bhat and Pramod Viswanath. <br>
-Accepted by <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020).
+In by <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020).
 
 * [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](to appear soon) <br>
 <b>Hongyu Gong</b>, Linfeng Song, and Suma Bhat. <br>
-Accepted by <i>International Conference on Natural Language Generation </i> (INLG 2020).
+In <i>International Conference on Natural Language Generation </i> (INLG 2020).
 
 
 * [IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information](https://www.aclweb.org/anthology/2020.figlang-1.21/) <br>
@@ -37,7 +41,7 @@ In <i>Proceedings of the Second Workshop on Figurative Language Processing</i> (
 
 * [FUSE: Multi-Faceted Set Expansion by Coherent Clustering of Skip-grams](https://arxiv.org/abs/1910.04345) <br>
 Wanzheng Zhu, <b>Hongyu Gong</b>, Jiaming Shen, Chao Zhang, Jingbo Shang, Suma Bhat Jiawei Han <br>
-Accepted by <i>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020)<i>.
+In <i>The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020)<i>.
 
 
 ## 2019
