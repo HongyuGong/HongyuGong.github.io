@@ -24,16 +24,17 @@ Accepted by <i> AAAI 2021 (AI for Social Impact track)</i>.
 
 * [Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.acl-main.603/) <br>
 <b>Hongyu Gong</b>, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu. <br>
-In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020).
+In <i>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics</i> (ACL 2020). <br>
+[slides](https://github.com/HongyuGong/HongyuGong.github.io/blob/master/files/acl2020.pptx)
 
 * [Enriching Word Embeddings with Temporal and Spatial Information](https://arxiv.org/abs/2010.00761) <br>
 <b>Hongyu Gong</b>, Suma Bhat and Pramod Viswanath. <br>
-In by <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020).
+In by <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020). <br>
+[slides](https://github.com/HongyuGong/HongyuGong.github.io/blob/master/files/conll2020_slides.pptx)
 
 * [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](to appear soon) <br>
 <b>Hongyu Gong</b>, Linfeng Song, and Suma Bhat. <br>
 In <i>International Conference on Natural Language Generation </i> (INLG 2020).
-
 
 * [IlliniMet: Illinois System for Metaphor Detection with Contextual and Linguistic Information](https://www.aclweb.org/anthology/2020.figlang-1.21/) <br>
 <b>Hongyu Gong</b>, Kshitij Gupta, Akriti Jain and Suma Bhat. <br>
@@ -51,7 +52,8 @@ In <i>Proceedings of the 2019 Conference on Empirical Methods in Natural Languag
 
 * [Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus](https://arxiv.org/pdf/1903.10671.pdf) <br>
 <b>Hongyu Gong</b>, Suma Bhat, Lingfei Wu, Jinjun Xiong and Wen-mei Hwu. <br>
-In <i>Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i> (NAACL 2019).
+In <i>Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</i> (NAACL 2019). <br>
+[slides](https://github.com/HongyuGong/HongyuGong.github.io/blob/master/files/naacl_slides.pptx)
 
 * [Context-Sensitive Malicious Spelling Error Correction](https://arxiv.org/pdf/1901.07688.pdf) <br>
 <b>Hongyu Gong</b>, Yuchen Li, Suma Bhat and Pramod Viswanath. <br>
