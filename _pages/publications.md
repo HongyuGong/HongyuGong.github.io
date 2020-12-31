@@ -29,7 +29,7 @@ In <i>Proceedings of the 58th Annual Meeting of the Association for Computationa
 
 * [Enriching Word Embeddings with Temporal and Spatial Information](https://arxiv.org/abs/2010.00761) <br>
 <b>Hongyu Gong</b>, Suma Bhat and Pramod Viswanath. <br>
-In by <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020). <br>
+In <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020). <br>
 [slides](https://github.com/HongyuGong/HongyuGong.github.io/blob/master/files/conll2020_slides.pptx)
 
 * [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](to appear soon) <br>
