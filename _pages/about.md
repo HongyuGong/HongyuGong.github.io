@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I earned my Ph.D. degree from the University of Illinois at Urbana-Champaign (UIUC) with Natural Language Processing as my research area. My research interest lies in language representation learning and text generation. I am lucky to be advised by my Ph.D. advisors Prof. Pramod Viswanath and Prof. Suma Bhat. Prior to my graduate study at UIUC, I got my Bachelor's degree from Shanghai Jiao Tong University in China, where I was in IEEE pilot class and advised by Prof. Xinbing Wang.
+I am currently a research scientist at Facebook AI working on Language Generation. I earned my Ph.D. degree from the University of Illinois at Urbana-Champaign (UIUC) with Natural Language Processing as my research area. My research interest lies in language representation learning and text generation. I am lucky to be advised by my Ph.D. advisors Prof. Pramod Viswanath and Prof. Suma Bhat. Prior to my graduate study at UIUC, I got my Bachelor's degree from Shanghai Jiao Tong University in China, where I was in IEEE pilot class and advised by Prof. Xinbing Wang.
 
 Recent News
 ======
