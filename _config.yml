@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongyu Gong's Homepage"
 title_separator          : "-"
 name                     : &name "Hongyu Gong"
-description              : &description "I'm a PhD student at UIUC"
+description              : &description "I'm a research scientist at Facebook AI"
 url                      : https://hongyugong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hongyugong.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hongyu Gong"
   avatar           : "profile.jpg"
-  bio              : "I'm a PhD student at UIUC"
-  location         : "Champaign, Illinois"
+  bio              : "I'm a research scientist at Facebook AI"
+  location         : "Seattle, Washington"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Jam1IpgAAAAJ&hl=en"
