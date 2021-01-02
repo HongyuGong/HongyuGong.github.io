@@ -24,11 +24,13 @@ Work Experience
 Academic Services
 ======
 ## Program Committee Member
-* Annual Meeting of the Association for Computational Linguistics ([ACL 2019](http://www.acl2019.org), [ACL2020](https://acl2020.org/))
-* The Conference on Empirical Methods in Natural Language Processing ([EMNLP 2020](https://2020.emnlp.org))
+* Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-2021](https://2021.naacl.org/))
+* The European Chapter of the Association for Computational Linguistics ([EACL-2021](https://2021.eacl.org/))
+* Annual Meeting of the Association for Computational Linguistics ([ACL-2019](http://www.acl2019.org), [ACL-2020](https://acl2020.org/))
+* The Conference on Empirical Methods in Natural Language Processing ([EMNLP-2020](https://2020.emnlp.org))
 * AAAI Conference on Artificial Intelligence ([AAAI-20](https://aaai.org/Conferences/AAAI-20/), [AAAI-21](https://aaai.org/Conferences/AAAI-21/))
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net/))
-* The International Workshop on Deep Learning on Graphs: Methods and Applications ([DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/))
+* The International Workshop on Deep Learning on Graphs ([DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/), [DLG-AAAI 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/))
 * The Workshop on Representation Learning for NLP ([RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0))
 
 ## Reviewer
