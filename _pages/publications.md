@@ -17,10 +17,21 @@ author_profile: true
 
 (\* denotes equal contribution)
 
-## 2020
+## 2021
 * [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention]() <br>
 <b>Hongyu Gong</b>, Alberto Valido Delgado, Katherine Ingram, Giulia Fanti, Suma Bhat and Dorothy Espelage. <br>
 Accepted by <i> AAAI 2021 (AI for Social Impact track)</i>.
+
+* [Self-Supervised Euphemism Detection and Identification for Content Moderation](https://arxiv.org/abs/2103.16808) <br>
+Wanzheng Zhu, <b>Hongyu Gong</b>, Rohan Bansal, Zachary Weinberg, Nicolas Christin, Giulia Fanti and Suma Bhat. <br>
+Accepted by <i> IEEE Symposium on Security and Privacy 2021</i>.
+
+* [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://www.aclweb.org/anthology/2021.eacl-main.115/) <br>
+Holger Schwenk, Vishrav Chaudhary, Shuo Sun, <b>Hongyu Gong</b>, Francisco Guzmán. <br>
+In <i>Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics</i> (EACL 2021). <br>
+
+
+## 2020
 
 * [Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.acl-main.603/) <br>
 <b>Hongyu Gong</b>, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu. <br>
