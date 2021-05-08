@@ -31,7 +31,7 @@ Academic Services
 * AAAI Conference on Artificial Intelligence ([AAAI-20](https://aaai.org/Conferences/AAAI-20/), [AAAI-21](https://aaai.org/Conferences/AAAI-21/))
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net/))
 * The International Workshop on Deep Learning on Graphs ([DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/), [DLG-AAAI 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/))
-* The Workshop on Representation Learning for NLP ([RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0))
+* The Workshop on Representation Learning for NLP ([RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0),[RepL4NLP-2021](https://sites.google.com/view/repl4nlp-2021))
 
 ## Reviewer
 * [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
