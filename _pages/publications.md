@@ -17,8 +17,24 @@ author_profile: true
 
 (\* denotes equal contribution)
 
+## Preprint
+
+* [Adaptive Sparse Transformer for Multilingual Translation](https://arxiv.org/pdf/2104.07358.pdf) <br>
+<b>Hongyu Gong</b>, Xian Li, Dmitriy Genzel. <br>
+
+* [LAWDR: Language-Agnostic Weighted Document Representations from Pre-trained Models](https://arxiv.org/pdf/2106.03379.pdf) <br>
+<b>Hongyu Gong</b>, Vishrav Chaudhary, Yuqing Tang, Francisco Guzmán. <br>
+
+* [Demystify Optimization Challenges in Multilingual Transformers](https://arxiv.org/pdf/2104.07639.pdf) <br>
+Xian Li, <b>Hongyu Gong</b>. <br>
+
+* [From Solving a Problem Boldly to Cutting the Gordian Knot: Idiomatic Text Generation](https://arxiv.org/pdf/2104.06541.pdf) <br>
+Jianing Zhou, <b>Hongyu Gong</b>, Srihari Nanniyur, Suma Bhat. <br>
+
+
 ## 2021
-* [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention]() <br>
+
+* [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention](https://arxiv.org/pdf/2105.11119.pdf) <br>
 <b>Hongyu Gong</b>, Alberto Valido Delgado, Katherine Ingram, Giulia Fanti, Suma Bhat and Dorothy Espelage. <br>
 Accepted by <i> AAAI 2021 (AI for Social Impact track)</i>.
 
@@ -30,6 +46,9 @@ Accepted by <i> IEEE Symposium on Security and Privacy 2021</i>.
 Holger Schwenk, Vishrav Chaudhary, Shuo Sun, <b>Hongyu Gong</b>, Francisco Guzmán. <br>
 In <i>Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics</i> (EACL 2021). <br>
 
+* [PIE: Parallel Idiomatic Expression Corpus for Idiomatic Sentence Generation and Paraphrasing]() <br>
+Jianing Zhou, <b>Hongyu Gong</b> and Suma Bhat. <br>
+In <i>the 17th Workshop on Multiword Expressions</i> (ACL Workshop 2021). <br>
 
 ## 2020
 
