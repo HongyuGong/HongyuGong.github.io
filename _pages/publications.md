@@ -22,6 +22,9 @@ author_profile: true
 * [Adaptive Sparse Transformer for Multilingual Translation](https://arxiv.org/pdf/2104.07358.pdf) <br>
 <b>Hongyu Gong</b>, Xian Li, Dmitriy Genzel. <br>
 
+* [Pay Better Attention to Attention: Head Selection in Multilingual and Multi-Domain Sequence Modeling](https://arxiv.org/pdf/2106.10840v1.pdf) <br>
+<b>Hongyu Gong</b>, Yun Tang, Juan Pino, Xian Li. <br>
+
 * [LAWDR: Language-Agnostic Weighted Document Representations from Pre-trained Models](https://arxiv.org/pdf/2106.03379.pdf) <br>
 <b>Hongyu Gong</b>, Vishrav Chaudhary, Yuqing Tang, Francisco Guzmán. <br>
 
