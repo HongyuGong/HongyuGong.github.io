@@ -45,6 +45,10 @@ Accepted by <i> AAAI 2021 (AI for Social Impact track)</i>.
 Wanzheng Zhu, <b>Hongyu Gong</b>, Rohan Bansal, Zachary Weinberg, Nicolas Christin, Giulia Fanti and Suma Bhat. <br>
 Accepted by <i> IEEE Symposium on Security and Privacy 2021</i>.
 
+* [FST: the FAIR Speech Translation System for the IWSLT21 Multilingual Shared Task](https://aclanthology.org/2021.iwslt-1.14/) <br>
+Yun Tang\*, <b>Hongyu Gong\*</b>, Xian Li, Changhan Wang, Juan Pino, Holger Schwenk, Naman Goyal. <br>
+In <i>Proceedings of the 18th International Conference on Spoken Language Translation</i> (IWSLT 2021). <br>
+
 * [WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia](https://www.aclweb.org/anthology/2021.eacl-main.115/) <br>
 Holger Schwenk, Vishrav Chaudhary, Shuo Sun, <b>Hongyu Gong</b>, Francisco Guzmán. <br>
 In <i>Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics</i> (EACL 2021). <br>
@@ -65,7 +69,7 @@ In <i>Proceedings of the 58th Annual Meeting of the Association for Computationa
 In <i>The SIGNLL Conference on Computational Natural Language Learning</i> (CoNLL 2020). <br>
 [slides](https://github.com/HongyuGong/HongyuGong.github.io/blob/master/files/conll2020_slides.pptx)
 
-* [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](to appear soon) <br>
+* [Rich Syntactic and Semantic Information Helps Unsupervised Text Style Transfer](https://aclanthology.org/2020.inlg-1.17/) <br>
 <b>Hongyu Gong</b>, Linfeng Song, and Suma Bhat. <br>
 In <i>International Conference on Natural Language Generation </i> (INLG 2020).
 
