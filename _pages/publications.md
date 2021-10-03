@@ -22,20 +22,26 @@ author_profile: true
 * [Adaptive Sparse Transformer for Multilingual Translation](https://arxiv.org/pdf/2104.07358.pdf) <br>
 <b>Hongyu Gong</b>, Xian Li, Dmitriy Genzel. <br>
 
-* [Pay Better Attention to Attention: Head Selection in Multilingual and Multi-Domain Sequence Modeling](https://arxiv.org/pdf/2106.10840v1.pdf) <br>
-<b>Hongyu Gong</b>, Yun Tang, Juan Pino, Xian Li. <br>
-
 * [LAWDR: Language-Agnostic Weighted Document Representations from Pre-trained Models](https://arxiv.org/pdf/2106.03379.pdf) <br>
 <b>Hongyu Gong</b>, Vishrav Chaudhary, Yuqing Tang, Francisco Guzmán. <br>
-
-* [Demystify Optimization Challenges in Multilingual Transformers](https://arxiv.org/pdf/2104.07639.pdf) <br>
-Xian Li, <b>Hongyu Gong</b>. <br>
 
 * [From Solving a Problem Boldly to Cutting the Gordian Knot: Idiomatic Text Generation](https://arxiv.org/pdf/2104.06541.pdf) <br>
 Jianing Zhou, <b>Hongyu Gong</b>, Srihari Nanniyur, Suma Bhat. <br>
 
 
 ## 2021
+
+* [Pay Better Attention to Attention: Head Selection in Multilingual and Multi-Domain Sequence Modeling](https://arxiv.org/pdf/2106.10840v1.pdf) <br>
+<b>Hongyu Gong</b>, Yun Tang, Juan Pino, Xian Li. <br> 
+Accepted by <i> NeurIPS 2021 </i>.
+
+* [Multimodal and Multilingual Em- beddings for Large-Scale Speech Mining]() <br>
+Paul-Ambroise Duquenne, <b>Hongyu Gong</b> and Holger Schwenk. <br>
+Accepted by <i> NeurIPS 2021 </i>.
+
+* [Robust Optimization for Multilingual Translation with Imbalanced Data](https://arxiv.org/pdf/2104.07639.pdf) <br>
+Xian Li, <b>Hongyu Gong</b>. <br>
+Accepted by <i> NeurIPS 2021 </i>.
 
 * [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention](https://arxiv.org/pdf/2105.11119.pdf) <br>
 <b>Hongyu Gong</b>, Alberto Valido Delgado, Katherine Ingram, Giulia Fanti, Suma Bhat and Dorothy Espelage. <br>
