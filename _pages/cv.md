@@ -32,6 +32,7 @@ Academic Services
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net/))
 * The International Workshop on Deep Learning on Graphs ([DLG-AAAI 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/), [DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/))
 * The Workshop on Representation Learning for NLP ([RepL4NLP-2021](https://sites.google.com/view/repl4nlp-2021), [RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0))
+* The Workshop on Figurative Language Processing ([FigLang 2020](https://virtual.acl2020.org/workshop_W7.html))
 * Biennial Machine Translation Summit ([MT Summit-2021](https://amtaweb.org/mt-summit2021/))
 
 
