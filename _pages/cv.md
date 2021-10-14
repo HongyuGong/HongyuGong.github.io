@@ -26,12 +26,12 @@ Academic Services
 ## Program Committee Member
 * Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-2021](https://2021.naacl.org/))
 * The European Chapter of the Association for Computational Linguistics ([EACL-2021](https://2021.eacl.org/))
-* Annual Meeting of the Association for Computational Linguistics ([ACL-2019](http://www.acl2019.org), [ACL-2020](https://acl2020.org/))
-* The Conference on Empirical Methods in Natural Language Processing ([EMNLP-2020](https://2020.emnlp.org),[EMNLP-2021](https://2021.emnlp.org/))
-* AAAI Conference on Artificial Intelligence ([AAAI-21](https://aaai.org/Conferences/AAAI-21/), [AAAI-20](https://aaai.org/Conferences/AAAI-20/), [AAAI-21](https://aaai.org/Conferences/AAAI-21/))
+* Annual Meeting of the Association for Computational Linguistics ([ACL-2020](https://acl2020.org/), [ACL-2019](http://www.acl2019.org))
+* The Conference on Empirical Methods in Natural Language Processing ([EMNLP-2021](https://2021.emnlp.org/), [EMNLP-2020](https://2020.emnlp.org))
+* AAAI Conference on Artificial Intelligence ([AAAI-22](https://aaai.org/Conferences/AAAI-22/), [AAAI-21](https://aaai.org/Conferences/AAAI-21/), [AAAI-20](https://aaai.org/Conferences/AAAI-20/))
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net/))
-* The International Workshop on Deep Learning on Graphs ([DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/), [DLG-AAAI 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/))
-* The Workshop on Representation Learning for NLP ([RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0),[RepL4NLP-2021](https://sites.google.com/view/repl4nlp-2021))
+* The International Workshop on Deep Learning on Graphs ([DLG-AAAI 2021](https://deep-learning-graphs.bitbucket.io/dlg-aaai21/), [DLG-KDD 2020](https://deep-learning-graphs.bitbucket.io/dlg-kdd20/))
+* The Workshop on Representation Learning for NLP ([RepL4NLP-2021](https://sites.google.com/view/repl4nlp-2021), [RepL4NLP-2020](https://sites.google.com/view/repl4nlp2020/home?authuser=0))
 * Biennial Machine Translation Summit ([MT Summit-2021](https://amtaweb.org/mt-summit2021/))
 
 
