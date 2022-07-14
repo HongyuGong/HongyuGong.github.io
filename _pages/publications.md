@@ -43,10 +43,13 @@ In <i>Proceedings of NAACL-HLT 2022 </i>.
 Jianing Zhou, Ziheng Zeng, <b>Hongyu Gong</b>, Suma Bhat. <br>
 In <i>Proceedings of the AAAI Conference on Artificial Intelligence 2022</i> (AAAI 2022).
 
+* [Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation](https://openreview.net/forum?id=pN1JOdrSY9) <br>
+Xuan-Phi Nguyen, <b>Hongyu Gong</b>, Yun Tang, Changhan Wang, Philipp Koehn, Shafiq Joty. <br>
+In <i>International Conference on Learning Representations 2022</i> (ICLR 2022).
+
 * [Incremental Speech Synthesis For Speech-To-Speech Translation](https://arxiv.org/abs/2110.08214) <br>
 Danni Liu, Changhan Wang, <b>Hongyu Gong</b>, Xutai Ma, Yun Tang, Juan Pino. <br>
 In <i>Interspeech 2022</i>.
-
 
 
 ## 2021
@@ -66,10 +69,6 @@ In <i>Advances in Neural Information Processing Systems</i> (NeurIPS 2021).
 * [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention](https://arxiv.org/pdf/2105.11119.pdf) <br>
 <b>Hongyu Gong</b>, Alberto Valido Delgado, Katherine Ingram, Giulia Fanti, Suma Bhat and Dorothy Espelage. <br>
 In <i> AAAI 2021 (AI for Social Impact track)</i>.
-
-* [Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation](https://openreview.net/forum?id=pN1JOdrSY9) <br>
-Xuan-Phi Nguyen, <b>Hongyu Gong</b>, Yun Tang, Changhan Wang, Philipp Koehn, Shafiq Joty. <br>
-In <i>International Conference on Learning Representations 2021</i> (ICLR 2021).
 
 * [Self-Supervised Euphemism Detection and Identification for Content Moderation](https://arxiv.org/abs/2103.16808) <br>
 Wanzheng Zhu, <b>Hongyu Gong</b>, Rohan Bansal, Zachary Weinberg, Nicolas Christin, Giulia Fanti and Suma Bhat. <br>
