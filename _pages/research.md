@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-* Language Representation Learning: unsupervised approaches to word and document embeddings
+* Translation: Speech and text translation, multimodal and multilingual learning.
 
-* Language Understanding: idiom, sarcasm and metaphor detection; abusive language detection
+* Language Representation Learning: Unsupervised approaches to word and document embeddings.
 
-* Language Generation: text style transfer
+* Language Understanding: Idiom, sarcasm and metaphor detection; abusive language detection.
+
+* Language Generation: Text style transfer.
 
