@@ -29,23 +29,47 @@ author_profile: true
 Jianing Zhou, <b>Hongyu Gong</b>, Srihari Nanniyur, Suma Bhat. <br>
 
 
+## 2022
+
+* [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://aclanthology.org/2022.acl-long.105/) <br>
+Yun Tang, <b>Hongyu Gong</b>, Ning Dong, Changhan Wang, Wei-Ning Hsu, Jiatao Gu, Alexei Baevski, Xian Li, Abdelrahman Mohamed, Michael Auli, Juan Pino. <br>
+In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics </i> (ACL 2022).
+
+* [Textless Speech-to-Speech Translation on Real Data](https://aclanthology.org/2022.naacl-main.63/) <br>
+Ann Lee, <b>Hongyu Gong</b>, Paul-Ambroise Duquenne, Holger Schwenk, Peng-Jen Chen, Changhan Wang, Sravya Popuri, Yossi Adi, Juan Pino, Jiatao Gu, Wei-Ning Hsu <br>
+In <i>Proceedings of NAACL-HLT 2022 </i>.
+
+* [Idiomatic Expression Paraphrasing without Strong Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/21433) <br>
+Jianing Zhou, Ziheng Zeng, <b>Hongyu Gong</b>, Suma Bhat. <br>
+In <i>Proceedings of the AAAI Conference on Artificial Intelligence 2022</i> (AAAI 2022).
+
+* [Incremental Speech Synthesis For Speech-To-Speech Translation](https://arxiv.org/abs/2110.08214) <br>
+Danni Liu, Changhan Wang, <b>Hongyu Gong</b>, Xutai Ma, Yun Tang, Juan Pino. <br>
+In <i>Interspeech 2022</i>.
+
+
+
 ## 2021
 
 * [Pay Better Attention to Attention: Head Selection in Multilingual and Multi-Domain Sequence Modeling](https://arxiv.org/pdf/2106.10840v1.pdf) <br>
 <b>Hongyu Gong</b>, Yun Tang, Juan Pino, Xian Li. <br> 
-Accepted by <i> NeurIPS 2021 </i>.
+In <i>Advances in Neural Information Processing Systems</i> (NeurIPS 2021).
 
 * [Multimodal and Multilingual Em- beddings for Large-Scale Speech Mining]() <br>
 Paul-Ambroise Duquenne, <b>Hongyu Gong</b> and Holger Schwenk. <br>
-Accepted by <i> NeurIPS 2021 </i>.
+In <i>Advances in Neural Information Processing Systems</i> (NeurIPS 2021).
 
 * [Robust Optimization for Multilingual Translation with Imbalanced Data](https://arxiv.org/pdf/2104.07639.pdf) <br>
 Xian Li, <b>Hongyu Gong</b>. <br>
-Accepted by <i> NeurIPS 2021 </i>.
+In <i>Advances in Neural Information Processing Systems</i> (NeurIPS 2021).
 
 * [Abusive Language Detection in Heterogeneous Contexts: Dataset Collection and the Role of Supervised Attention](https://arxiv.org/pdf/2105.11119.pdf) <br>
 <b>Hongyu Gong</b>, Alberto Valido Delgado, Katherine Ingram, Giulia Fanti, Suma Bhat and Dorothy Espelage. <br>
-Accepted by <i> AAAI 2021 (AI for Social Impact track)</i>.
+In <i> AAAI 2021 (AI for Social Impact track)</i>.
+
+* [Contrastive Clustering to Mine Pseudo Parallel Data for Unsupervised Translation](https://openreview.net/forum?id=pN1JOdrSY9) <br>
+Xuan-Phi Nguyen, <b>Hongyu Gong</b>, Yun Tang, Changhan Wang, Philipp Koehn, Shafiq Joty. <br>
+In <i>International Conference on Learning Representations 2021</i> (ICLR 2021).
 
 * [Self-Supervised Euphemism Detection and Identification for Content Moderation](https://arxiv.org/abs/2103.16808) <br>
 Wanzheng Zhu, <b>Hongyu Gong</b>, Rohan Bansal, Zachary Weinberg, Nicolas Christin, Giulia Fanti and Suma Bhat. <br>
