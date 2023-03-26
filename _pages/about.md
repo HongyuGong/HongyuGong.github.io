@@ -14,9 +14,13 @@ I am currently a research scientist at Facebook AI Research (FAIR) working on Na
 Recent News
 ======
 
-* 2022.04 Our paper got accepted by NAACL.
+* 2023.02 Three papers got accepted by ICASSP.
 
-* 2022.02 Our paper got accepted by ACL.
+* 2022.10 One paper got accepted by EMNLP.
+
+<!-- * 2022.04 Our paper got accepted by NAACL.-->
+
+<!-- * 2022.02 Our paper got accepted by ACL.-->
 
 <!-- * 2021.09 Three papers got accepted by NeurIPS 2021.-->
 
@@ -32,6 +36,6 @@ Recent News
 
 <!-- * 2020.09 Our paper "Enriching Word Embeddings with Temporal and Spatial Information" got accepted by CoNLL 2020.-->
 
-* 2020.04 I succsessfully defended my Ph.D. at the University of Illinois at Urbana-Champaign.
+<!-- * 2020.04 I succsessfully defended my Ph.D. at the University of Illinois at Urbana-Champaign.-->
 
 <!-- * 2020.04 Our long paper "Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension" got accepted by ACL 2020. -->
