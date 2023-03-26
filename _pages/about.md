@@ -16,8 +16,6 @@ Recent News
 
 * 2023.02 Three papers got accepted by ICASSP.
 
-* 2022.10 One paper got accepted by EMNLP.
-
 <!-- * 2022.04 Our paper got accepted by NAACL.-->
 
 <!-- * 2022.02 Our paper got accepted by ACL.-->
