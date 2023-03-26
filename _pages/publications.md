@@ -18,6 +18,8 @@ author_profile: true
 (\* denotes equal contribution)
 
 ## Preprint
+* [Pre-training for Speech Translation: CTC Meets Optimal Transport](https://arxiv.org/abs/2301.11716) <br>
+Phuong-Hang Le, <b>Hongyu Gong</b>, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab. <br>
 
 * [Adaptive Sparse Transformer for Multilingual Translation](https://arxiv.org/pdf/2104.07358.pdf) <br>
 <b>Hongyu Gong</b>, Xian Li, Dmitriy Genzel. <br>
@@ -29,7 +31,25 @@ author_profile: true
 Jianing Zhou, <b>Hongyu Gong</b>, Srihari Nanniyur, Suma Bhat. <br>
 
 
+## 2023
+
+* [Improving Speech-to-Speech Translation Through Unlabeled Text](https://arxiv.org/abs/2210.14514) <br>
+Xuan-Phi Nguyen, Sravya Popuri, Changhan Wang, Yun Tang, Ilia Kulikov, <b>Hongyu Gong</b>. <br>
+In <i>IEEE International Conference on Acoustics, Speech, and Signal Processing</i> (ICASSP 2023).
+
+* [Named Entity Detection and Injection for Direct Speech Translation](https://arxiv.org/abs/2210.11981) <br>
+Marco Gaido, Yun Tang, Ilia Kulikov, Rongqing Huang, <b>Hongyu Gong</b>, Hirofumi Inaguma. <br>
+In <i>IEEE International Conference on Acoustics, Speech, and Signal Processing</i> (ICASSP 2023).
+
+* [A Holistic Cascade System, benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation](https://arxiv.org/abs/2301.10606)
+Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, <b>Hongyu Gong</b>, Elizabeth Salesky, Yossi Adi, Ann Lee, Peng-Jen Chen. <br>
+In <i>IEEE International Conference on Acoustics, Speech, and Signal Processing</i> (ICASSP 2023).
+
 ## 2022
+
+* [T-Modules: Translation Modules for Zero-Shot Cross-Modal Machine Translation](https://arxiv.org/abs/2205.12216) <br>
+Paul-Ambroise Duquenne, <b>Hongyu Gong</b>, Benoît Sagot, Holger Schwenk. <br> 
+In <i>Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i> (EMNLP 2022).
 
 * [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://aclanthology.org/2022.acl-long.105/) <br>
 Yun Tang, <b>Hongyu Gong</b>, Ning Dong, Changhan Wang, Wei-Ning Hsu, Jiatao Gu, Alexei Baevski, Xian Li, Abdelrahman Mohamed, Michael Auli, Juan Pino. <br>
