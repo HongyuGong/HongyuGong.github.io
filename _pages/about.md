@@ -14,6 +14,10 @@ I am currently a research scientist at Facebook AI Research (FAIR) working on Na
 Recent News
 ======
 
+* 2023.05 Two papers got accepted by ACL.
+
+* 2023.04 Our paper got accepted by ICML.
+
 * 2023.02 Three papers got accepted by ICASSP.
 
 <!-- * 2022.04 Our paper got accepted by NAACL.-->
