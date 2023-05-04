@@ -18,8 +18,6 @@ author_profile: true
 (\* denotes equal contribution)
 
 ## Preprint
-* [Pre-training for Speech Translation: CTC Meets Optimal Transport](https://arxiv.org/abs/2301.11716) <br>
-Phuong-Hang Le, <b>Hongyu Gong</b>, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab. <br>
 
 * [Adaptive Sparse Transformer for Multilingual Translation](https://arxiv.org/pdf/2104.07358.pdf) <br>
 <b>Hongyu Gong</b>, Xian Li, Dmitriy Genzel. <br>
@@ -32,6 +30,18 @@ Jianing Zhou, <b>Hongyu Gong</b>, Srihari Nanniyur, Suma Bhat. <br>
 
 
 ## 2023
+
+* [SpeechMatrix: A Large-Scale Mined Corpus of Multilingual Speech-to-Speech Translations](https://arxiv.org/abs/2211.04508) <br>
+Paul-Ambroise Duquenne\*, <b>Hongyu Gong\*</b>, Ning Dong, Jingfei Du, Ann Lee, Vedanuj Goswani, Changhan Wang, Juan Pino, Benoît Sagot, Holger Schwenk. <br>
+In <i>The 61st Annual Meeting of the Association for Computational Linguistics</i> (ACL 2023).
+
+* [Pre-training for Speech Translation: CTC Meets Optimal Transport](https://arxiv.org/abs/2301.11716) <br>
+Phuong-Hang Le, <b>Hongyu Gong</b>, Changhan Wang, Juan Pino, Benjamin Lecouteux, Didier Schwab. <br>
+In <i>2023 International Conference on Machine Learning</i> (ICML 2023).
+
+* [Speech-to-Speech Translation For A Real-world Unwritten Language](https://arxiv.org/abs/2211.06474) <br>
+Peng-Jen Chen, Kevin Tran, Yilin Yang, Jingfei Du, Justine Kao, Yu-An Chung, Paden Tomasello, Paul-Ambroise Duquenne, Holger Schwenk, <b>Hongyu Gong</b>, Hirofumi Inaguma, Sravya Popuri, Changhan Wang, Juan Pino, Wei-Ning Hsu, Ann Lee. <br>
+In <i> Findings of the Association for Computational Linguistics</i> (ACL Findings 2023).
 
 * [Improving Speech-to-Speech Translation Through Unlabeled Text](https://arxiv.org/abs/2210.14514) <br>
 Xuan-Phi Nguyen, Sravya Popuri, Changhan Wang, Yun Tang, Ilia Kulikov, <b>Hongyu Gong</b>. <br>
