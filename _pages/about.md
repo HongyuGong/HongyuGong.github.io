@@ -14,6 +14,8 @@ I am currently a research scientist at Facebook AI Research (FAIR) working on Na
 Recent News
 ======
 
+* 2023.07 [Blogs](https://hongyugong.github.io/year-archive/) related to speech language models.
+
 * 2023.05 Two papers got accepted by ACL.
 
 * 2023.04 Our paper got accepted by ICML.
