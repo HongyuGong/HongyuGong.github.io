@@ -24,6 +24,7 @@ Work Experience
 Academic Services
 ======
 ## Program Committee Member
+* Senior Area Chair of ACL Rolling Review ([ARR](https://aclrollingreview.org/sacs))
 * Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL-2021](https://2021.naacl.org/))
 * The European Chapter of the Association for Computational Linguistics ([EACL-2021](https://2021.eacl.org/))
 * Annual Meeting of the Association for Computational Linguistics ([ACL-2020](https://acl2020.org/), [ACL-2019](http://www.acl2019.org))
