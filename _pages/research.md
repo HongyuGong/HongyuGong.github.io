@@ -25,7 +25,7 @@ author_profile: true
 - [Pre-training for Speech Translation: CTC Meets Optimal Transport](http://proceedings.mlr.press/v202/le23a.html)
 - [Multilingual Speech-to-Speech Translation into Multiple Target Languages](https://arxiv.org/abs/2307.08655)
 - [T-Modules: Translation Modules for Zero-Shot Cross-Modal Machine Translation](https://aclanthology.org/2022.emnlp-main.391/)
--`[Textless Speech-to-Speech Translation on Real Data](https://aclanthology.org/2022.naacl-main.63/)
+- [Textless Speech-to-Speech Translation on Real Data](https://aclanthology.org/2022.naacl-main.63/)
 - [Unified Speech-text Pre-training for Speech Translation and Recognition](https://arxiv.org/abs/2204.05409)
 
 **Multilingual Modeling**: The explorations put emphasis on building adaptive model architectures, robust representations and scalable training recipes across diverse languages and domains.
